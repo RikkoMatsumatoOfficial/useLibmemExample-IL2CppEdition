@@ -1,0 +1,2 @@
+# useLibmemExample-IL2CppEdition
+useLibmemExample-IL2CppEdition by RikkoMatsumatoOfficial
