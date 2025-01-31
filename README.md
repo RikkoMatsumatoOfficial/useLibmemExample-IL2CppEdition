@@ -1,2 +1,2 @@
 # useLibmemExample-IL2CppEdition
-useLibmemExample-IL2CppEdition by RikkoMatsumatoOfficial
+This is Just Example to Init Libmem and Found GameAssembly.dll Module... So Enjoy to use this!!!
